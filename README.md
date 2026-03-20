@@ -100,6 +100,7 @@ Interactive filters allow dynamic analysis based on:
 
 ## 📷 Dashboard Preview
 
-Ecommerce_Sales_Performance_PowerBI_Dashboard.png
+<img width="769" height="428" alt="image" src="https://github.com/user-attachments/assets/9a03e8e9-7cff-4f51-9302-48d16730b388" />
+
 
 ---
